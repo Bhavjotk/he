@@ -45,7 +45,7 @@ no.addEventListener("click", () => {
     no.style.width = "10%";
     count++;
   } else if (count == 5) {
-    gif.src = "../resources/5.crying.gif";// gif credit: https://tenor.com/view/cat-gif-10173437195524493032
+    gif.src = "../resources/crying.gif";// gif credit: https://tenor.com/view/cat-gif-10173437195524493032
     text.innerHTML = "Pretty Please🥺😘";
     yes.style.height = "90%";
     yes.style.width = "96%";
